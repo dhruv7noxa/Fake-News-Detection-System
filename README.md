@@ -106,4 +106,5 @@ Feel free to customize the GitHub URL and your name/email in the description acc
 
 Would you like me to generate the complete `fake_news.py` with a saved model option and instructions on how to run that interactive mode from the README?
 
-
+## Name: Dhruv Meena
+## Email: dhruv123meena@gmail.com
