@@ -42,7 +42,7 @@ This project uses the **ISOT Fake News Dataset** obtained from [Kaggle](https://
 1. Clone this repository:
    (https://github.com/dhruv7noxa/Fake-News-Detection-System)
 
-### pip install pandas scikit-learn nltk
+2. pip install pandas scikit-learn nltk
 
 
 3. Download the dataset files `Fake.csv` and `True.csv` from Kaggle and place them in the project folder.
